@@ -1,0 +1,16 @@
+{
+    "name": "DataStructureExamplesAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0dd7cb326946e3744a63bb17b86b29cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

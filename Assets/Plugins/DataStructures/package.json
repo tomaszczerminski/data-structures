@@ -1,0 +1,21 @@
+﻿{
+  "name": "me.czerminski",
+  "version": "0.1.0",
+  "displayName": "Data Structures and algoritms",
+  "description": "Algorithms and data structures",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/tomaszczerminski/data-structures/README.md",
+  "changelogUrl": "https://github.com/tomaszczerminski/data-structures/CHANGELOG",
+  "licensesUrl": "https://github.com/tomaszczerminski/data-structures/blob/master/LICENSE",
+  "dependencies": {},
+  "keywords": [
+    "data structures",
+    "algorithms"
+  ],
+  "author": {
+    "name": "Tomasz Czermiński",
+    "email": "czerminski.tomasz@gmail.com",
+    "url": "https://github.com/tomaszczerminski/data-structures"
+  }
+}
